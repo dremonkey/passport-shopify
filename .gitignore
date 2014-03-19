@@ -1,0 +1,9 @@
+# System Files
+*.DS_Store
+
+# Text Editor Files
+*.sublime*
+
+# Ignore Modules
+node_modules/*
+

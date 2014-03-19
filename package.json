@@ -1,0 +1,37 @@
+{
+  "name": "passport-shopify",
+  "version": "0.0.1",
+  "description": "Shopify authentication strategy for Passport.",
+  "keywords": [
+    "passport",
+    "shopify",
+    "auth",
+    "authn",
+    "authentication",
+    "identity"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dremonkey/passport-shopify.git"
+  },
+  "bugs": {
+    "url": "http://github.com/dremonkey/passport-shopify/issues"
+  },
+  "author": "Andre Deutmeyer",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
+    }
+  ],
+  "main": "./lib/passport-shopify",
+  "dependencies": {
+    "pkginfo": "~0.3.0",
+    "passport-oauth": "~1.0.0"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "license": "MIT"
+}
