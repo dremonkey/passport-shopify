@@ -29,7 +29,6 @@
     "pkginfo": "~0.3.0",
     "passport-oauth": "~1.0.0"
   },
-  "devDependencies": {},
   "engines": {
     "node": ">= 0.8.0"
   },
