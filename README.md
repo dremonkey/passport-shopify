@@ -1,1 +1,1 @@
-Shopify OAuth Authentication Strategy for PassportJS
+# Shopify OAuth Authentication Strategy for PassportJS
